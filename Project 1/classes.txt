@@ -1,0 +1,2 @@
+red_buoy
+green_buoy
